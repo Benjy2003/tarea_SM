@@ -1,0 +1,8 @@
+# Evitar los arhivos binarios (de c++ por ejemplo)
+*.bin
+
+# Evitar un directorio cualquiera y su contenido
+nombreDirectorio/
+
+# Un archivo único
+Archivo.txt
